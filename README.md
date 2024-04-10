@@ -1,4 +1,6 @@
 # A general reduced-order neural operator for spatio-temporal predictive learning on complex spatial domains
+![images](img/method.png)
+
 This repository contains code accompanying our paper ["A general reduced-order neural operator for spatio-temporal predictive learning on complex spatial domains"]. For questions, feel free to contact us (qlmeng@nuaa.edu.cn).
 
 ## Dependencies & packages
