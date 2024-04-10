@@ -39,7 +39,7 @@ Case6-BloodFlow.mat
 ```
 ## Usage
 
-For all cases, you can run the codes by executing `Parallel_main.py` to quickly obtain the results. Note that each experiment is repeated five times, the same setup as in our paper. Each case also retains the setting of hyperparameters in the paper.
+Here we present the code for case1, and the code for other cases is similar. you can run the codes by executing `Parallel_main.py` to quickly obtain the results. Note that each experiment is repeated five times, the same setup as in our paper. Each case also retains the setting of hyperparameters in the paper.
 ```
 python Parallel_main.py 
 ```
