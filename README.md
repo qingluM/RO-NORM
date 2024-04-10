@@ -39,11 +39,11 @@ Case6-BloodFlow.mat
 ```
 ## Usage
 
-For all cases, you can directly run the codes by executing `main.py` to quickly obtain the results. Note that each experiment is repeated five times, the same setup as in our paper. Each case also retains the setting of hyperparameters in the paper.
+For all cases, you can run the codes by executing `Parallel_main.py` to quickly obtain the results. Note that each experiment is repeated five times, the same setup as in our paper. Each case also retains the setting of hyperparameters in the paper.
 ```
-python main.py 
+python Parallel_main.py 
 ```
-Additionally, we provide the `Calculate_LBO_basis.py` in `datasets` folder to calculate the LBO basis for Case2, Case3 and Case4. The calculation of Case0 and Case1 are embedded in the corresponding `main.py`.
+
 
 ## Results
 ### Case1
